@@ -14,30 +14,30 @@ export default function Projects() {
           <div className="xl:w-1/3 md:w-3/4 p-4 md:mx-auto">
           <a  href="https://bountiful-budgeting-sh.web.app/">
             <div className="bg-zinc-800 hover:scale-105 bg-opacity-40  p-6 rounded-lg">
-              <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/BountifulBudgeting.png" alt="An images for the application called Bountiful Budgeting" />
+              <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/BountifulBudgeting.webp" alt="An images for the application called Bountiful Budgeting" />
               <h3 className="tracking-widest text-green-400 text-xs font-medium title-font">Full-Stack</h3>
               <h2 className="text-lg text-white font-medium title-font mb-4">Bountiful Budgeting</h2>
-              <p className="leading-relaxed text-base">Bountiful Budgeting is a web application built with Next.js, Tailwind CSS, and Next UI that helps you manage your monthly budget by tracking your estimated income, recurring expenses, and offers user authentication with login and sign-up pages.</p>
+              <p className="leading-relaxed h-44 text-base">Bountiful Budgeting is a web application built with Next.js, Tailwind CSS, and Next UI that helps you manage your monthly budget by tracking your estimated income, recurring expenses, and offers user authentication with login and sign-up pages.</p>
             </div>
           </a>
           </div>
           <div className="xl:w-1/3 md:w-3/4 p-4 md:mx-auto">
           <a  href="https://gameflickfinder.web.app/">
             <div className="bg-zinc-800 hover:scale-105 bg-opacity-40  p-6 rounded-lg">
-              <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/gameFlickFinder.png" alt="An images for the application called Game Flick Finder" />
+              <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/gameFlickFinder.webp" alt="An images for the application called Game Flick Finder" />
               <h3 className="tracking-widest text-green-400 text-xs font-medium title-font">Front-End</h3>
               <h2 className="text-lg text-white font-medium title-font mb-4">Game Flick Finder</h2>
-              <p className="leading-relaxed text-base">GameFlickFinder, a website dedicated to helping users discover and explore a curated list of games. Users can browse through the collection of games, view trailers, and access download links. </p>
+              <p className="leading-relaxed h-44 text-base">GameFlickFinder, a website dedicated to helping users discover and explore a curated list of games. Users can browse through the collection of games, view trailers, and access download links. </p>
             </div>
           </a>
           </div>
           <div className="xl:w-1/3 md:w-3/4 p-4 md:mx-auto">
           <a  href="https://checkov-sh.web.app/">
             <div className="bg-zinc-800 hover:scale-105 bg-opacity-40  p-6 rounded-lg">
-              <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/CheckovToDo.png" alt="An images for the application called Checkov To Do App" />
+              <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/CheckovToDo.webp" alt="An images for the application called Checkov To Do App" />
               <h3 className="tracking-widest text-green-400 text-xs font-medium title-font">Full-Stack</h3>
               <h2 className="text-lg text-white font-medium title-font mb-4">Checkov ToDo</h2>
-              <p className="leading-relaxed text-base">Checkov is a simple and efficient todo list app built using React.js, Tailwind CSS, and Firebase authentication. The app Allows the user to add, delete, and mark tasks as done, with a secure login and signup.</p>
+              <p className="leading-relaxed h-44 text-base">Checkov is a simple and efficient todo list app built using React.js, Tailwind CSS, and Firebase authentication. The app Allows the user to add, delete, and mark tasks as done, with a secure login and signup.</p>
             </div>
             </a>
           </div>
