@@ -12,7 +12,7 @@ export default function Projects() {
         </div>
         <div className="flex flex-row flex-wrap -m-4">
           <div className="xl:w-1/3 md:w-3/4 p-4 md:mx-auto">
-          <a  href="https://bountiful-budgeting-sh.web.app/">
+          <a target="_blank" href="https://bountiful-budgeting-sh.web.app/">
             <div className="bg-zinc-800 hover:scale-105 bg-opacity-40  p-6 rounded-lg">
               <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/BountifulBudgeting.webp" alt="An images for the application called Bountiful Budgeting" />
               <h3 className="tracking-widest text-green-400 text-xs font-medium title-font">Full-Stack</h3>
@@ -22,7 +22,7 @@ export default function Projects() {
           </a>
           </div>
           <div className="xl:w-1/3 md:w-3/4 p-4 md:mx-auto">
-          <a  href="https://gameflickfinder.web.app/">
+          <a target="_blank" href="https://gameflickfinder.web.app/">
             <div className="bg-zinc-800 hover:scale-105 bg-opacity-40  p-6 rounded-lg">
               <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/gameFlickFinder.webp" alt="An images for the application called Game Flick Finder" />
               <h3 className="tracking-widest text-green-400 text-xs font-medium title-font">Front-End</h3>
@@ -32,7 +32,7 @@ export default function Projects() {
           </a>
           </div>
           <div className="xl:w-1/3 md:w-3/4 p-4 md:mx-auto">
-          <a  href="https://checkov-sh.web.app/">
+          <a target="_blank" href="https://checkov-sh.web.app/">
             <div className="bg-zinc-800 hover:scale-105 bg-opacity-40  p-6 rounded-lg">
               <img className="h-40 rounded md:h-auto w-full object-cover object-center mb-6" src="/images/CheckovToDo.webp" alt="An images for the application called Checkov To Do App" />
               <h3 className="tracking-widest text-green-400 text-xs font-medium title-font">Full-Stack</h3>
